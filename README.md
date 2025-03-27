@@ -32,12 +32,7 @@ cd sentiment-analysis-flask
 ```
 ## Install Dependencies
 
-Make sure you have `pip` installed and then install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-Alternatively, you can install dependencies individually using:
+ Install dependencies individually using:
 
 ```bash
 pip install Flask textblob
