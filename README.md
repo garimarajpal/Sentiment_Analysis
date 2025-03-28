@@ -16,7 +16,7 @@ To run this app, you need Python 3.x and the following libraries:
 
 You can install the required dependencies using pip:
 
-```bash
+```
 pip install Flask textblob
 ```
 
@@ -26,22 +26,16 @@ pip install Flask textblob
 
 Clone this repository to your local machine:
 
-```bash
+```
 git clone https://github.com/your-username/sentiment-analysis-flask.git
 cd sentiment-analysis-flask
 ```
-## Install Dependencies
 
- Install dependencies individually using:
-
-```bash
-pip install Flask textblob
-```
 ## Run the Application
 
 Once the dependencies are installed, run the Flask application:
 
-```bash
+```
 python app.py
 ```
 By default, the app will be available at `http://127.0.0.1:5000/`.
@@ -59,7 +53,7 @@ By default, the app will be available at `http://127.0.0.1:5000/`.
 
 The project follows a simple structure:
 
-```php
+```
 sentiment-analysis-flask/
 │
 ├── app.py                # Main Flask app
